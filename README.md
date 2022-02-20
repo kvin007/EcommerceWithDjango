@@ -1,2 +1,2 @@
-# ecommerce_django
+# Ecommerce with Django
 Django Personal Project
